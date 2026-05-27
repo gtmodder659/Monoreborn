@@ -1,2 +1,2 @@
 # Monoreborn menu
-a new version of monos anbox
+a new version of mono sanbox mod
